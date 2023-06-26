@@ -5,6 +5,7 @@
 
 ### 使用Dooring从0到1，全程0代码的搭建并发布微信小程序页面
 ![Fqg_1w5DJgfSHEihS58bROh-q0Yb](https://github.com/JunHuaBai96/WeChat-minprogram/assets/102909786/77425146-e393-437c-b6f4-d172f8ccf4e4)
+
 主要流程如下：
 1、在Dooring编辑器搭建好页面 地址：https://dooring.vip
 2、将做好的页面导出为小程序代码，并解压代码包
